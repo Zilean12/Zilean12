@@ -25,8 +25,11 @@
   <a href="https://www.linkedin.com/in/aryan-sharma-196a22233/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://zilean12.github.io/Portfolio---Zilean/" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+   <a href="https://zilean12.github.io/Portfolio---Zilean/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://magenta-penelope-28.tiiny.site/" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-4CAF50?style=for-the-badge&logo=read-the-docs&logoColor=white" target="_blank" />
   </a>
 </div>
 
@@ -37,27 +40,33 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,tailwindcss,figma,github" /><br>
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,express,firebase,mongodb,java,mysql" /><br>
+    <img src="https://img.icons8.com/color/48/000000/azure-1.png" title="Azure" width="48" height="48" />
+    <img src="https://img.icons8.com/color/48/000000/power-bi.png" title="Power BI" width="48" height="48" />
+    <img src="https://img.icons8.com/color/48/000000/tableau-software.png" title="Tableau" width="48" height="48" />
+    <img src="https://img.icons8.com/color/48/000000/snowflake.png" title="Snowflake" width="48" height="48" />
 </div>
-
 <br/>
 <hr/>
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Zilean12/Zilean12/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
+<!--   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Zilean12/Zilean12/output/github-contribution-grid-snake.svg" />
+   -->
+      <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Zilean12/Zilean12/output/github-contribution-grid-snake-dark.svg" />
+
+  <br/><br/>
 </div>
 
 <hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=Zilean12&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" /> 
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zilean12&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
-<br/>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Zilean12&count_private=true&show_icons=true&theme=react&border_radius=10&hide_title=true" width="45%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zilean12&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&hide_title=true" width="45%" alt="Top Languages" />
+</div>
+
+<br/>
 <hr/>
+
