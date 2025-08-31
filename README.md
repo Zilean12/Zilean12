@@ -19,7 +19,9 @@
 ⚡ Fun fact: **I love solving complex problems with elegant code solutions!**
 
  </div>
- 
+
+<h2 align="center">📫 Connect with me 📫</h2>
+<br/>
 <div align="center"> 
   <a href="mailto:aryansharma4844@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
@@ -87,4 +89,8 @@
 
 <br/>
 <hr/>
+
+<div align="center">
+  <h3>💫 Thanks for visiting my profile! Let's connect and build something amazing together! 💫</h3>
+</div>
 
