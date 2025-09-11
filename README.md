@@ -29,9 +29,9 @@
   <a href="https://www.linkedin.com/in/aryan-sharma-196a22233/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-   <a href="https://zilean12.github.io/Portfolio---Zilean/" target="_blank">
+<!--    <a href="https://zilean12.github.io/Portfolio---Zilean/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
-  </a>
+  </a> -->
   <a href="https://magenta-penelope-28.tiiny.site/" target="_blank">
     <img src="https://img.shields.io/badge/Resume-4CAF50?style=for-the-badge&logo=read-the-docs&logoColor=white" target="_blank" />
   </a>
