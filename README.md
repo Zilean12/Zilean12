@@ -1,96 +1,81 @@
+<!-- Profile Visit Badge -->
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Zilean12.Zilean12" />
 
+<!-- Typing Introduction -->
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Aaryan+Sharma!;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+there!+👋;+I'm+Aaryan+Sharma!;" />
 </h1>
 
-<h3 align="center">"A passionate Full Stack Developer, Data Engineer, and Cloud Enthusiast."</h3>
+<h3 align="center">Building scalable systems. Empowering data-driven decisions. 💡</h3>
 
-<br/>
+---
 
-<div align="center">
- 
- 🔭 I’m currently working on **full-stack web applications and data analytics projects**
- 
- 🌱 I’m currently learning **Docker, Azure, AWS, and advanced data engineering**
+### 🌟 About Me  
 
-💬 Ask me about **Node.js, React, Firebase, Python, Data Analytics... or anything [here](https://github.com/Zilean12/Zilean12/issues)**
+I'm **Aaryan Sharma**, a **Full Stack Developer**, and **Cloud Enthusiast** who loves crafting elegant and efficient solutions.  
+I bridge the gap between **software engineering** and **data analytics**, turning ideas into impactful products.  
 
-⚡ Fun fact: **I love solving complex problems with elegant code solutions!**
+- 🔭 Currently building **full-stack applications** & **data analytics pipelines**  
+- 🌱 Learning **Docker, Azure, AWS, and Cloud Architecture**   
+- ⚡ Fun fact: I debug best with music and coffee ☕  
 
- </div>
+---
 
-<h2 align="center">📫 Connect with me 📫</h2>
-<br/>
-<div align="center"> 
-  <a href="mailto:aryansharma4844@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://www.linkedin.com/in/aryan-sharma-196a22233/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-<!--    <a href="https://zilean12.github.io/Portfolio---Zilean/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
-  </a> -->
-  <a href="https://magenta-penelope-28.tiiny.site/" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-4CAF50?style=for-the-badge&logo=read-the-docs&logoColor=white" target="_blank" />
-  </a>
-</div>
-
-<hr/>
-
-<h2 align="center">🚀 About Me 🚀</h2>
-<br/>
-<div align="center">
-  
-💻 **Full Stack Developer** with expertise in modern web technologies and cloud platforms
-  
-📊 **Data Engineer** passionate about building scalable data pipelines and analytics solutions
-  
-🎯 **Problem Solver** who enjoys tackling complex challenges with innovative approaches
-  
-🌟 **Continuous Learner** always exploring new technologies and best practices
-
-</div>
-
-<hr/>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,tailwindcss,figma" /><br>
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,mysql" /><br>
-    <img src="https://skillicons.dev/icons?i=java,git,github,docker,aws,azure,gcp" /><br>
-    <img src="https://img.icons8.com/color/48/000000/power-bi.png" title="Power BI" width="48" height="48" />
-    <img src="https://img.icons8.com/color/48/000000/tableau-software.png" title="Tableau" width="48" height="48" />
-    <img src="https://img.icons8.com/color/48/000000/snowflake.png" title="Snowflake" width="48" height="48" />
-</div>
-<br/>
-<hr/>
+### 🧠 Technical Expertise  
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-<!--   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Zilean12/Zilean12/output/github-contribution-grid-snake.svg" />
-   -->
-      <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Zilean12/Zilean12/output/github-contribution-grid-snake-dark.svg" />
-
-  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,python,javascript,typescript,express,mongodb,mysql,firebase" /><br/>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,figma,git,github,docker,aws,azure,gcp" /><br/>
+  <img src="https://img.icons8.com/color/48/power-bi.png" title="Power BI" />
+  <img src="https://img.icons8.com/color/48/tableau-software.png" title="Tableau" />
+  <img src="https://img.icons8.com/color/48/snowflake.png" title="Snowflake" />
 </div>
 
-<hr/>
+---
 
-<h2 align="center">⚡ Stats ⚡</h2>
+### 💼 Featured Projects  
+
+| 🚀 Project | 🔧 Description | 🧠 Tech Stack |
+|-------------|----------------|---------------|
+| [**Digital Marketplace for Used Furniture**](https://github.com/Zilean12) | Full-stack MERN app for buying/selling furniture with authentication, payment integration, and dashboards. | React, Node.js, MongoDB, Firebase |
+| **Vegetation Recognition using YOLO** | Object detection model for vegetation monitoring to support sustainability research. | Python, YOLOv5, OpenCV |
+| **Multi-Document Summarization (LLM)** | Flask-based summarizer integrating NLP and LLMs for extracting insights from documents. | Python, Flask, NLP, LLM |
+
+---
+
+### 🧩 GitHub Insights  
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zilean12&count_private=true&show_icons=true&theme=react&border_radius=10&hide_title=true" width="45%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zilean12&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&hide_title=true" width="45%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Zilean12&show_icons=true&theme=react&border_radius=10&hide_title=true" width="45%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zilean12&layout=compact&theme=react&border_radius=10&hide_title=true" width="45%" alt="Top Languages" />
 </div>
 
-<br/>
-<hr/>
+---
+
+### 🐍 Contribution Graph  
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Zilean12/Zilean12/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</div>
+
+---
+
+### 🤝 Connect with Me  
 
 <div align="center">
-  <h3>💫 Thanks for visiting my profile! Let's connect and build something amazing together! 💫</h3>
+  <a href="mailto:aryansharma4844@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/aryan-sharma-196a22233/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://magenta-penelope-28.tiiny.site/" target="_blank"><img src="https://img.shields.io/badge/Resume-4CAF50?style=for-the-badge&logo=read-the-docs&logoColor=white"/></a>
 </div>
 
+---
+
+### 🏢 Other Profiles  
+> 🔹 Personal: [**Zilean12**](https://github.com/Zilean12)  
+> 🔹 Professional (Company): [**aryan-sb**](https://github.com/aryan-sb)  
+
+---
+
+<div align="center">
+  <h3>✨ “Code. Learn. Iterate. Grow.” ✨</h3>
+  <p>Thanks for visiting my profile! Let’s connect and build something impactful 🚀</p>
+</div>
